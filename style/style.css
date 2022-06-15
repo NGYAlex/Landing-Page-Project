@@ -203,7 +203,9 @@ section#barre{
     width: 30px;
     height: 30px;
 }
-
+#section-2 h6{
+    font-size: 1.3vh;
+}
 
 footer{
     position: absolute;
